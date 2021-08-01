@@ -1,4 +1,4 @@
-### Ride-sharing by city type analysis
+# Ride-sharing by city type analysis
 ## Overview of analysis
 
 This project will help us to visualize ridesharing trends which will help us to determine steps needed to improve access of ride-sharing services. This project will also deliver a high-level snapshot of the ride sharing services based on different location such as urban, suburban & rural cities. We will consider number of rides, drivers per location, average fare per locations in our analysis to visualize entire ride sharing services currently offered to determine affordability for underserved neighborhoods.      
@@ -6,15 +6,19 @@ This project will help us to visualize ridesharing trends which will help us to 
 
 From the figure 1 we can see that Rural cities have lowest number of total rides compare to Urban and Suburban cities. As a result of low number of rides in Rural cities, number of total drivers needed for rural cities are also significantly lower compare to Urban and Suburban cites. It is also worth noting that the total number of rides and drivers have negative relation with average fare per ride and average fare per driver. Increase in total rides and drivers decreases both average fare per ride and average fare per driver for both Urban and Suburban cities compare to Rural cities. Based on our analysis on entire data from the figure 1 we can conclude that Urban cities have highest number rides and drivers which leads to lowest average fare per ride and driver. Suburban cities are in the middle for both average fare per ride and driver.             
 
-# Figure 1 Summary based on type of cities 
+### Figure 1 Summary based on type of cities 
+
+![Summary_based_on_type_of_cities]https://github.com/shownok-afk/PyBer_Analysis/blob/main/analysis/Summary_based_on_type_of_cities.png
  
-# Figure 2 Total Fare by City Type
+### Figure 2 Total Fare by City Type
+
+![PyBer_fare_summary]https://github.com/shownok-afk/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
  
-# Rural cities 
+### Rural cities 
 From figure 2 we can conclude revenue generated from Rural cities are low compare to Suburban and Urban cities.  
-# Suburban cities
+### Suburban cities
 Suburban cities are in the middle when it comes to revenue generation.  
-# Urban cities
+### Urban cities
 Revenue generation in Urban cities are highest compare to other cities.      
 
 ## Summary
