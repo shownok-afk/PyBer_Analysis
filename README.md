@@ -8,11 +8,11 @@ From the figure 1 we can see that Rural cities have lowest number of total rides
 
 ### Figure 1 Summary based on type of cities 
 
-![Summary_based_on_type_of_cities]https://github.com/shownok-afk/PyBer_Analysis/blob/main/analysis/Summary_based_on_type_of_cities.png
+![Summary_based_on_type_of_cities](https://github.com/shownok-afk/PyBer_Analysis/blob/main/analysis/Summary_based_on_type_of_cities.png)
  
 ### Figure 2 Total Fare by City Type
 
-![PyBer_fare_summary]https://github.com/shownok-afk/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
+![PyBer_fare_summary](https://github.com/shownok-afk/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
  
 ### Rural cities 
 From figure 2 we can conclude revenue generated from Rural cities are low compare to Suburban and Urban cities.  
